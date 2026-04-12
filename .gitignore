@@ -1,0 +1,47 @@
+# Echte Portfolio-Daten - niemals committen
+Portfolio.csv
+portfolio_history.csv
+
+# Weitere sensible Daten (Fallback für verwandte Dateinamen)
+*_private.csv
+*_personal.csv
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Alte Iterationen und Hilfsdateien
+Previousiterations.py
+Optional[float]
+backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Betriebssystem
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*.orig

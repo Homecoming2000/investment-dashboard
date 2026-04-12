@@ -1,0 +1,13 @@
+Ticker,Quantity,Type,Name,ISIN,BuyPrice,Sector,Dividend,DivMonth,DivFrequency
+AAPL,10,Stock,APPLE INC,US0378331005,150.00,Informationstechnology,0.96,5,Quarterly
+MSFT,10,Stock,MICROSOFT CORP,US5949181045,300.00,Informationstechnology,3.00,6,Quarterly
+NVDA,5,Stock,NVIDIA CORP,US67066G1040,400.00,Semiconductors,,,
+ALV.DE,5,Stock,ALLIANZ SE,DE0008404005,200.00,Financial&Services,14.00,5,Annual
+SAP.DE,10,Stock,SAP SE,DE0007164600,120.00,Informationstechnology,2.20,5,Annual
+INTC,30,Stock,INTEL CORP,US4581401001,55.00,Semiconductors,0.50,3,Quarterly
+PYPL,20,Stock,PAYPAL HOLDINGS,US70450Y1038,200.00,Financial&Services,,,
+NKE,10,Stock,NIKE INC,US6541061031,140.00,ConsumerCyclical,1.52,3,Quarterly
+IWDA.AS,50,ETF,ISHARES MSCI WORLD,IE00B4L5Y983,80.00,Diversified,,,
+VWCE.DE,20,ETF,VANGUARD FTSE ALL-WORLD,IE00BK5BQT80,100.00,Diversified,,,
+BTC-USD,0.1,Crypto,BITCOIN,,30000.00,N/A,,,
+ETH-USD,1.0,Crypto,ETHEREUM,,2000.00,N/A,,,
